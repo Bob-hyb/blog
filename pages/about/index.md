@@ -4,7 +4,7 @@ title: Yibo Huang (黄逸博)
 
 Hello there 👋
 
-I am a second year master student in Software Engineering at Shanghai JiaoTong University. I work in the Institute of Parallel And Distributed Systems (IPADS), advised by professor [Rong Chen](https://ipads.se.sjtu.edu.cn/pub/members/rong_chen) and assistant professor [Jinyu Gu](https://ipads.se.sjtu.edu.cn/pub/members/jinyu_gu). My major research interests include Microkernel operating system and serverless computing.
+I am a second year master student in Software Engineering at Shanghai Jiao Tong University. I work in the Institute of Parallel And Distributed Systems (IPADS), advised by professor [Rong Chen](https://ipads.se.sjtu.edu.cn/pub/members/rong_chen) and assistant professor [Jinyu Gu](https://ipads.se.sjtu.edu.cn/pub/members/jinyu_gu). My major research interests include Microkernel operating system and serverless computing.
 
 ## Education
 #### [ Sep 2020 — Mar 2023 (expected) ] Shanghai Jiao Tong University
