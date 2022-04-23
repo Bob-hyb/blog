@@ -24,7 +24,7 @@ There is a group of people in our lab working on the development of ChCore, and 
 * Implementing several user-level device drivers.
 
 ## Research
-Since Feb 2022, I have been working on a new resource isolation technology for serverless computing. Related works in this area include Amazon's Firecracker (NSDI 20), Google's gVisor and FAASM (ATC 21), etc. Designing and implementing a new resource isolation technology to overcome the shortcomings of existing technologies is my goal.
+Since Feb 2022, I have been working on a new resource isolation technology for serverless computing. Related works in this area include Amazon's Firecracker (NSDI 20), Google's gVisor and FAASM (ATC 21), etc. Designing and implementing a new resource isolation technology that addresses the shortcomings of existing technologies is my goal.
 
 ## Teaching
 #### CS1501 Programming - Ideas and Methods (for undergraduates)
