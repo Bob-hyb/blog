@@ -1,3 +1,6 @@
 [submodule "theme"]
 	path = theme
 	url = git@github.com:Bob-hyb/purepress-theme-minimal-custom.git
+[submodule "Bob-hyb.github.io"]
+	path = Bob-hyb.github.io
+	url = git@github.com:Bob-hyb/Bob-hyb.github.io.git
