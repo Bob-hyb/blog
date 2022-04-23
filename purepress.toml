@@ -1,8 +1,8 @@
 [site]
-title = "My Blog"
-subtitle = "Here is my blog"
-author = "My Name"
+title = "Yibo's blog"
+subtitle = ""
+author = "Yibo Huang"
 timezone = "Asia/Shanghai"
 
 [config]
-posts_per_index_page = 5
+posts_per_index_page = 999
