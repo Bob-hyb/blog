@@ -19,8 +19,8 @@ I have been working with a team led by professor [Haibo Chen](https://ipads.se.s
 
 * Porting ChCore to RISC-V architecture.
 * Porting ChCore to x86-64 real machine.
-* Enabling PCID/ASID in x86-64, AArch64 and RISC-V architecture.
-* Implementing page cache for user-level FileSystem service.
+* Enabling PCID/ASID in x86-64, AArch64 and RISC-V architectures.
+* Implementing an unified page cache layer for user-level file systems.
 * Implementing several user-level device drivers.
 
 ## Research
