@@ -32,3 +32,6 @@ TA in fall 2021; Worked with assistant professor [Mingkai Dong](https://dong.mk/
 
 ## Recent Honor
 * IPADS Class C scholarship  [ Mar 2021 ]
+
+## Contact Me
+Please contact me via E-mail: yibo_huang (at) 126 (dot) com
