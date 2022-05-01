@@ -4,9 +4,9 @@ title: Yibo Huang (黄逸博)
 
 Hello there 👋
 
-I am a second year master student in Software Engineering at Shanghai Jiao Tong University. I work in the [Institute of Parallel and Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn/), advised by professor [Rong Chen](https://ipads.se.sjtu.edu.cn/pub/members/rong_chen) and assistant professor [Jinyu Gu](https://ipads.se.sjtu.edu.cn/pub/members/jinyu_gu). Currently, my major research interests include Operating System and Cloud Computing.
+I am a second year master student in Software Engineering at Shanghai Jiao Tong University. I work in the [Institute of Parallel and Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn/), advised by professor [Rong Chen](https://ipads.se.sjtu.edu.cn/pub/members/rong_chen) and assistant professor [Jinyu Gu](https://ipads.se.sjtu.edu.cn/pub/members/jinyu_gu). Currently, my major research interests include Operating Systems and Cloud Computing.
 
-<font size=5 color=#008000>**📢📢📢 I am actively looking for summer research oppotunities!**</font>
+<font size=5 color=#008000>**📢 I am actively looking for summer research oppotunities!**</font>
 
 
 ## Education
@@ -36,11 +36,13 @@ So far, I have made the following efforts:
 * Exploring the design space of resource isolation mechanisms and looking for potential ways to solve the problem.
 
 ## Teaching
-#### CS1501 Programming - Ideas and Methods (for undergraduates)
+#### SJTU CS1501 Programming - Ideas and Methods (for undergraduates)
 TA in fall 2021; Worked with assistant professor [Mingkai Dong](https://dong.mk/).
 
 ## Recent Awards & Achievements
-* IPADS Class C scholarship (Mar 2021)
+* IPADS fellowship (Sep 2021)
+* IPADS ChCore contribution award (Jun 2021)
+* Scored 653 points in CET-6 (Dec 2019) (Often teased by my friends because of this 🤣)
 
 ## Contact Me
 E-mail: yibo_huang (at) 126 (dot) com
